@@ -44,7 +44,7 @@ Dillinger uses a number of open source projects to work properly:
 * [node.js] - evented I/O for the backend
 * [Express] - fast node.js network app framework [@tjholowaychuk]
 * [Gulp] - the streaming build system
-* [Breakdance](http://breakdance.io) - HTML to Markdown converter
+* [Breakdance](https://breakdance.github.io/breakdance/) - HTML to Markdown converter
 * [jQuery] - duh
 
 And of course Dillinger itself is open source with a [public repository][dill]
@@ -88,7 +88,7 @@ Dillinger is currently extended with the following plugins. Instructions on how 
 Want to contribute? Great!
 
 Dillinger uses Gulp + Webpack for fast developing.
-Make a change in your file and instantanously see your updates!
+Make a change in your file and instantaneously see your updates!
 
 Open your favorite Terminal and run these commands.
 
